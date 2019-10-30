@@ -9,7 +9,7 @@ Take a look at the [API docs here](http://docs.africastalking.com).
 
 ## Install 
 
-You can install the PHP SDK via composer or by downloading the source
+You can install the PHP SDK via composer or by downloading the source.
 
 #### Via Composer
 
